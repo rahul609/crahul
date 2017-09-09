@@ -7,4 +7,5 @@ const fruits = [
 ];
 ```
 console.table(fruits);
+![capture](https://user-images.githubusercontent.com/31780423/30236087-3869da8e-94c7-11e7-8419-ee699ae1023b.PNG)
 
