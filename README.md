@@ -1,26 +1,10 @@
-<html>
-
-<head>
-
-
-
-</head>
-
-
-<body>
-<script>
-
-const headphone=[
-
-{'headphone' : 'apple','quality':sound clarity},
-{'headphone' : 'samsung' 'quality': Extra bass},
-{'headphone' : 'sony'   'quality' : high echo},
+#LAB1
+```javascript
+const fruits = [
+   {'fruit' : 'apple', 'fat' : '8', 'energy' : 100 },
+   {'fruit' : 'mango', 'fat' : '27', 'energy' : 120 },
+   {'fruit' : 'banana', 'fat' : '7', 'energy' : 15 }   
 ];
+```
+console.table(fruits);
 
-console.table(headphone);
-
-</script>
-
-</body>
-
-</html>
